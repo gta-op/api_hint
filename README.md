@@ -13,7 +13,7 @@ I'm using ternjs.
 ![default](http://www.gta-op.com/api_dummy/api2.jpg)
 
 ## How to use this?
-- If you're using atom, go install [https://github.com/tststs/atom-ternjs](tern js) (on linux: apm install atom-ternjs)
+- If you're using atom, go install [https://github.com/tststs/atom-ternjs](ternjs) (on linux: apm install atom-ternjs)
 - Copy API.js in your client resource directory
 - add "API.js" to loadEagerly in your .tern-project
 - have fun!
