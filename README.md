@@ -17,3 +17,7 @@ I'm using ternjs.
 - Copy API.js in your client resource directory
 - add "API.js" to loadEagerly in your .tern-project
 - have fun!
+
+## Where does all the text come from
+The function descriptions are extracted from the [GTA Network Wiki](https://wiki.gtanet.work).
+Help to improve it, then the api dummy will become better too ;)
